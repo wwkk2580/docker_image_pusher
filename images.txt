@@ -2,5 +2,6 @@ nginx
 #支持私库
 xhofe/alist:latest
 chigusa/bililive-go
+nfew/aio-dynamic-push:latest
 #支持指定架构
 --platform=linux/arm64 xiaoyaliu/alist
