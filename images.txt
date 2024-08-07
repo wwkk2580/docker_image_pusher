@@ -6,6 +6,7 @@ xhofe/alist:latest
 chigusa/bililive-go:v0.7.30
 nfew/aio-dynamic-push:latest
 ghcr.io/biliup/caution:latest
+whyour/qinglong:latest
 ihmily/douyin-live-recorder:latest
 #支持指定架构
 --platform=linux/arm64 xiaoyaliu/alist
